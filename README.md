@@ -33,7 +33,6 @@ The `.jgw` world files alongside the CMAP aerials georeference each JPG (EPSG:34
 
 ## Not available / failed
 
-- **Chicago water books (books 2786, 2810, 4509)** — listed in the original retrieval log but the PDFs are not included in this repository.
 - **1975 CMAP tile 3815_07** — 404 on CMAP's blob storage (also tried 3815_04, also 404); substituted neighbor tile 3814_09.
 - **Sanborn / 80 Acres / Sidwell coverage caveat** — the point sits on Lake Michigan's edge at South Works; the 80 Acres and Sidwell sheets nearest the point (2 ft) were downloaded and treated as covering, but the Sanborn 1989 set has no sheet over the point itself (nearest sheet ~402 ft, included).
 - **ILHAP nearest photo center (677 m)** — exists in the index but was never scanned (blank JPG_URL); next-nearest scanned frame used instead.

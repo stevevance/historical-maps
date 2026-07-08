@@ -11,9 +11,6 @@
 | Year | Source | File | Notes |
 |---|---|---|---|
 | various | 80 Acres map | `0000_80acres_wsw293815.pdf` | Sheet wsw293815; point is on the sheet edge (grid cell ~2 ft away) |
-| ~1950s | Chicago water books | `0000_waterbook_2786.pdf` | Book 2786 |
-| ~1950s | Chicago water books | `0000_waterbook_2810.pdf` | Book 2810 |
-| ~1950s | Chicago water books | `0000_waterbook_4509.pdf` | Book 4509 |
 | 1938 | ISGS Illinois Historical Aerial Photography (ILHAP) | `1938_ilhap_0bwq09054.jpg` | Flown 1938-11-29; frame center ~662 m from target (nearest scanned frame; the closer 677 m frame was never scanned) |
 | 1970 | CMAP/NIPC aerial | `1970_cmap_3815_07.jpg` | Tile 3815 photo 07; georeferenced via `.jgw` alongside |
 | 1975 | CMAP/NIPC aerial | `1975_cmap_3814_09.jpg` | Tile 3815_07 404'd for 1975; used neighbor tile 3814 photo 09 (point is near the tile seam — target may be at the frame edge) |
@@ -37,4 +34,4 @@
 
 ## Attribution
 
-Sources: City of Chicago (Sanborn mirror, 80 Acres, Sidwell, water books), Cook County (ortho, Nearmap viewer), CMAP/NIPC (1970-1995 aerials), Illinois State Geological Survey (ILHAP 1938).
+Sources: City of Chicago (Sanborn mirror, 80 Acres, Sidwell), Cook County (ortho, Nearmap viewer), CMAP/NIPC (1970-1995 aerials), Illinois State Geological Survey (ILHAP 1938).
