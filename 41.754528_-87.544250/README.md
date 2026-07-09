@@ -11,23 +11,23 @@ The point sits at the water's edge and falls exactly on the seam of several map-
 
 ## Files (oldest first)
 
-| Year | Source | File | Notes |
-|---|---|---|---|
-| various | 80 Acres map | [`0000_80acres_wsw293815.pdf`](0000_80acres_wsw293815.pdf) | Sheet wsw293815; point is on the sheet edge (grid cell ~2 ft away) |
-| 1938 | ISGS Illinois Historical Aerial Photography (ILHAP) | [`1938_ilhap_0bwq09054.jpg`](1938_ilhap_0bwq09054.jpg) | Flown 1938-11-29; frame center ~662 m from target (nearest scanned frame; the closer 677 m frame was never scanned) |
-| 1970 | CMAP/NIPC aerial | [`1970_cmap_3815_07.jpg`](1970_cmap_3815_07.jpg) | Tile 3815 photo 07; georeferenced via `.jgw` alongside |
-| 1975 | CMAP/NIPC aerial | [`1975_cmap_3814_09.jpg`](1975_cmap_3814_09.jpg) | Tile 3815_07 404'd for 1975; used neighbor tile 3814 photo 09 (point is near the tile seam — target may be at the frame edge) |
-| 1980 | CMAP/NIPC aerial | [`1980_cmap_3815_07.jpg`](1980_cmap_3815_07.jpg) | Tile 3815 photo 07 |
-| 1985 | CMAP/NIPC aerial | [`1985_cmap_3815_07.jpg`](1985_cmap_3815_07.jpg) | Tile 3815 photo 07 |
-| 1989 | Sanborn fire insurance map | [`1989_sanborn_v27xxxp106c.pdf`](1989_sanborn_v27xxxp106c.pdf) | Nearest sheet, ~402 ft west of the point — no Sanborn sheet contains the point (lakefill/industrial edge) |
-| 1990 | CMAP/NIPC aerial | [`1990_cmap_3815_07.jpg`](1990_cmap_3815_07.jpg) | Tile 3815 photo 07 |
-| 1995 | CMAP/NIPC aerial | [`1995_cmap_3815_07.jpg`](1995_cmap_3815_07.jpg) | Tile 3815 photo 07 |
-| 1998 | Cook County ortho (CookOrthoPan1998) | [`1998_cookortho.jpg`](1998_cookortho.jpg) | Earliest county ortho, black & white (panchromatic); 600 ft square clip centered on the point |
-| 2017 (survey 2017-06-05) | Cook County Nearmap | [`2017_nearmap_vertical.png`](2017_nearmap_vertical.png) | Earliest Nearmap survey at this location |
-| 2021 tax year | Sidwell tax map | [`2021_sidwell_2129E.pdf`](2021_sidwell_2129E.pdf) | Page 2129E; point is on the page edge (grid cell ~2 ft away) |
-| 2025 | Cook County ortho (CookOrtho2025) | [`2025_cookortho.jpg`](2025_cookortho.jpg) | Latest county ortho; 600 ft square clip centered on the point |
-| 2026 (survey 2026-03-08) | Cook County Nearmap | [`2026_nearmap_north.png`](2026_nearmap_north.png) | "North" oblique view requested, but the rendered view appears vertical — flat parkland/shoreline shows little oblique difference |
-| 2026 (survey 2026-03-08) | Cook County Nearmap | [`2026_nearmap_vertical.png`](2026_nearmap_vertical.png) | Latest Nearmap survey, vertical view |
+| Year | Preview | Source | File | Notes |
+|---|---|---|---|---|
+| various | [<img src="thumbnails/0000_80acres_wsw293815.jpg" width="120">](0000_80acres_wsw293815.pdf) | 80 Acres map | [`0000_80acres_wsw293815.pdf`](0000_80acres_wsw293815.pdf) | Sheet wsw293815; point is on the sheet edge (grid cell ~2 ft away) |
+| 1938 | [<img src="thumbnails/1938_ilhap_0bwq09054.jpg" width="120">](1938_ilhap_0bwq09054.jpg) | ISGS Illinois Historical Aerial Photography (ILHAP) | [`1938_ilhap_0bwq09054.jpg`](1938_ilhap_0bwq09054.jpg) | Flown 1938-11-29; frame center ~662 m from target (nearest scanned frame; the closer 677 m frame was never scanned) |
+| 1970 | [<img src="thumbnails/1970_cmap_3815_07.jpg" width="120">](1970_cmap_3815_07.jpg) | CMAP/NIPC aerial | [`1970_cmap_3815_07.jpg`](1970_cmap_3815_07.jpg) | Tile 3815 photo 07; georeferenced via `.jgw` alongside |
+| 1975 | [<img src="thumbnails/1975_cmap_3814_09.jpg" width="120">](1975_cmap_3814_09.jpg) | CMAP/NIPC aerial | [`1975_cmap_3814_09.jpg`](1975_cmap_3814_09.jpg) | Tile 3815_07 404'd for 1975; used neighbor tile 3814 photo 09 (point is near the tile seam — target may be at the frame edge) |
+| 1980 | [<img src="thumbnails/1980_cmap_3815_07.jpg" width="120">](1980_cmap_3815_07.jpg) | CMAP/NIPC aerial | [`1980_cmap_3815_07.jpg`](1980_cmap_3815_07.jpg) | Tile 3815 photo 07 |
+| 1985 | [<img src="thumbnails/1985_cmap_3815_07.jpg" width="120">](1985_cmap_3815_07.jpg) | CMAP/NIPC aerial | [`1985_cmap_3815_07.jpg`](1985_cmap_3815_07.jpg) | Tile 3815 photo 07 |
+| 1989 | [<img src="thumbnails/1989_sanborn_v27xxxp106c.jpg" width="120">](1989_sanborn_v27xxxp106c.pdf) | Sanborn fire insurance map | [`1989_sanborn_v27xxxp106c.pdf`](1989_sanborn_v27xxxp106c.pdf) | Nearest sheet, ~402 ft west of the point — no Sanborn sheet contains the point (lakefill/industrial edge) |
+| 1990 | [<img src="thumbnails/1990_cmap_3815_07.jpg" width="120">](1990_cmap_3815_07.jpg) | CMAP/NIPC aerial | [`1990_cmap_3815_07.jpg`](1990_cmap_3815_07.jpg) | Tile 3815 photo 07 |
+| 1995 | [<img src="thumbnails/1995_cmap_3815_07.jpg" width="120">](1995_cmap_3815_07.jpg) | CMAP/NIPC aerial | [`1995_cmap_3815_07.jpg`](1995_cmap_3815_07.jpg) | Tile 3815 photo 07 |
+| 1998 | [<img src="thumbnails/1998_cookortho.jpg" width="120">](1998_cookortho.jpg) | Cook County ortho (CookOrthoPan1998) | [`1998_cookortho.jpg`](1998_cookortho.jpg) | Earliest county ortho, black & white (panchromatic); 600 ft square clip centered on the point |
+| 2017 (survey 2017-06-05) | [<img src="thumbnails/2017_nearmap_vertical.jpg" width="120">](2017_nearmap_vertical.png) | Cook County Nearmap | [`2017_nearmap_vertical.png`](2017_nearmap_vertical.png) | Earliest Nearmap survey at this location |
+| 2021 tax year | [<img src="thumbnails/2021_sidwell_2129E.jpg" width="120">](2021_sidwell_2129E.pdf) | Sidwell tax map | [`2021_sidwell_2129E.pdf`](2021_sidwell_2129E.pdf) | Page 2129E; point is on the page edge (grid cell ~2 ft away) |
+| 2025 | [<img src="thumbnails/2025_cookortho.jpg" width="120">](2025_cookortho.jpg) | Cook County ortho (CookOrtho2025) | [`2025_cookortho.jpg`](2025_cookortho.jpg) | Latest county ortho; 600 ft square clip centered on the point |
+| 2026 (survey 2026-03-08) | [<img src="thumbnails/2026_nearmap_north.jpg" width="120">](2026_nearmap_north.png) | Cook County Nearmap | [`2026_nearmap_north.png`](2026_nearmap_north.png) | "North" oblique view requested, but the rendered view appears vertical — flat parkland/shoreline shows little oblique difference |
+| 2026 (survey 2026-03-08) | [<img src="thumbnails/2026_nearmap_vertical.jpg" width="120">](2026_nearmap_vertical.png) | Cook County Nearmap | [`2026_nearmap_vertical.png`](2026_nearmap_vertical.png) | Latest Nearmap survey, vertical view |
 
 The `.jgw` world files alongside the CMAP aerials georeference each JPG (EPSG:3435) for use in GIS software.
 
