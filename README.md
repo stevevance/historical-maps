@@ -8,6 +8,7 @@ Collections of historical maps and aerial imagery, each covering a single Chicag
 |---|---|---|
 | [`41.754528_-87.544250`](41.754528_-87.544250/) | Former US Steel South Works site, near Steelworkers Park (~8700 S at the shoreline) | 2026-07-08 |
 | [`irving-park-rd-and-paulina-st`](irving-park-rd-and-paulina-st/) | W Irving Park Rd & N Paulina St, Lakeview (~4000 N / 1700 W) | 2026-07-08 |
+| [`foster-st-and-sheridan-rd-evanston`](foster-st-and-sheridan-rd-evanston/) | Foster St & Sheridan Rd, Evanston (Northwestern campus west edge) | 2026-07-08 |
 
 ## Sources
 
