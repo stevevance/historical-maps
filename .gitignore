@@ -1,1 +1,9 @@
 .DS_Store
+
+# Collections not published to this repo
+41.864552_-87.607044/
+
+# CMAP download intermediates (ZIP originals and extracted TIFFs); the
+# converted JPG + .jgw pairs are what get committed
+cmap_*.zip
+cmap_tmp/
